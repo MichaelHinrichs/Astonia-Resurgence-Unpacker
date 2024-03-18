@@ -1,4 +1,6 @@
-﻿//Written for Astonia Resurgence. https://store.steampowered.com/app/1584040/
+﻿//Written for Astonia games.
+//Astonia Resurgence https://store.steampowered.com/app/1584040/
+//Astonia Remastered https://store.steampowered.com/app/1220900/
 using System.IO.Compression;
 
 BinaryReader br = new(File.OpenRead(args[0]));
